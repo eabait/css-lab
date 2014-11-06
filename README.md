@@ -8,7 +8,7 @@ W3C's HTML5 specification can be found here: [http://www.w3.org/TR/html5/](http:
 
 Through the rest of this section you will create a basic HTML document. After finishing this section you will: 
 
-* be able to create HTML documents that displays text, images, tables, lists
+* be able to create HTML documents that display text, images, tables, lists
 * understand how to structure HTML documents, and what the basic building blocks are
 * understand best practices to write valid, accessible, and semantic HTML markup.
 
@@ -47,7 +47,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 By now, you should have several `html` files with different examples of how to create lists, tables, add images, headers, etc. All the markup is syntactically valid, is semantic, passes the HTML validator, and is accessible.
 
 ## 2. CSS
-In this section you will learn hot to use CSS to modify the look & feel, and the layout of HTML documents.
+In this section you will learn how to use CSS to modify the look & feel, and the layout of HTML documents.
 
 For a short introduction to HTML & CSS please go to: [http://learn.shayhowe.com/html-css/](http://learn.shayhowe.com/html-css/)
 
